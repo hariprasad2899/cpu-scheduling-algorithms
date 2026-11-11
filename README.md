@@ -72,7 +72,7 @@ Scheduling Algorithms/
 ├── mlqu.cpp              # Multi-Level Queue (universal) implementation
 ├── pbrr4.cpp             # Priority Based Round Robin implementation
 ├── fcfs.txt              # Text file (possibly containing test data)
-└── README.md             # This file
+README.md             # This file
 ```
 
 ## 🔧 Requirements
