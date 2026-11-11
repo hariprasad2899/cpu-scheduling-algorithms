@@ -63,7 +63,7 @@ This project implements seven different CPU scheduling algorithms, each with its
 ## 📁 Project Structure
 
 ```
-OSD Project 1/
+Scheduling Algorithms/
 ├── fcfs.cpp              # First Come First Serve implementation
 ├── sjf2.cpp              # Shortest Job First implementation
 ├── rr.cpp                # Round Robin implementation
